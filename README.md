@@ -2,6 +2,8 @@
 
 Example-
 
+my twitter handle @erRaghavKhanna
+
 <img src="https://github.com/raghavkhanna30/twitter-auto-name-changer/blob/master/upload/Capture3.PNG">
 
 
