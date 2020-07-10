@@ -11,7 +11,7 @@ def validate_follower_count(user):
     # update string split if you don't use this naming format for twitter profile:
     # 'insert_your_name|{emoji_follower_count(user)} Followers'
     current_follower_count = user.name.replace('|', ' ').split()
-    return current_follower_count[2]
+    return current_follower_count
 
 
 def emoji_follower_count(user):
